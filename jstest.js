@@ -5,5 +5,5 @@ if (a="Samosa"){
     console.log("Samosa is ready!")
 }
 else{
-    console.log("other thins is not avaiilable!ss")
+    console.log("other thingsssss is not avaiilable!ss")
 }
